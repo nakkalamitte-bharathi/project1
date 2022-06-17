@@ -11,7 +11,7 @@ pipeline {
         }
         stage('build'){
             steps{
-                echo 'Enter Build'
+                echo 'Enter Main Build'
             
             }
         }
